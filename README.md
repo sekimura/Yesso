@@ -1,6 +1,6 @@
 # Yesso
 
-> An experiment to write web application with ES6 and UIKit like framework.
+> An experiment to write web applications with [6to5](http://6to5.org/) and UIKit like framework.
 
 ## Install 
 
@@ -8,7 +8,14 @@
 $ npm install yesso
 ```
 
+## Status
+
+**Incomplete.**
+
 ## Usage
+
+![](example/simple/ScreenShot.png)
+
 
 ```js
 // view-controller.js
