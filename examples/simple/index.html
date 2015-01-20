@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yesso Example - Simple</title>
+  <style>
+    html, body, * {
+      margin: 0;
+      padding: 0;
+      font-family: "Helvetica Neue", "Roboto", sans-serif;
+      box-sizing: border-box;
+    }
+    body {
+      position: relative;
+    }
+    div {
+      position: absolute;
+      overflow: hidden;
+    }
+    button {
+      border-radius: 2px;
+      border-width: 1px;
+      border-color: transparent;
+      padding: 6px;
+      background: transparent;
+      font-size: 15px;
+      color: #007AFF;
+    }
+    .alignAxisToSuperviewAxis--vertical {
+      top: 50%;
+      transform: translateY(-50%);
+    }
+    .alignAxisToSuperviewAxis--horizontal {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  </style>
+</head>
+<body>
+  <script src="js/bundle.js"></script>
+</body>
+</html>

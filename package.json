@@ -1,0 +1,17 @@
+{
+  "name": "Yesso",
+  "description": "Experimental Project to write web app with ES6 on UIKit like framework",
+  "version": "0.0.1",
+
+  "repository": {
+    "url": "http://github.com/sekimura/Yesso.git",
+    "type": "git"
+  },
+
+  "devDependencies": {
+    "vinyl-source-stream": "^1.0.0",
+    "gulp-6to5": "^2.0.2",
+    "gulp": "^3.8.10",
+    "browserify": "^8.1.1"
+  }
+}
