@@ -1,4 +1,4 @@
-import YS from '../../../to5';
+import YS from '../../../dist';
 
 class ViewController extends YS.ViewController {
 

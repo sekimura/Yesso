@@ -19,3 +19,4 @@ gulp.task('build', ['to5'], function () {
   ;
 });
 
+gulp.task('default', ['build']);
