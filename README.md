@@ -13,7 +13,7 @@ $ npm install yesso
 ```js
 // view-controller.js
 
-import YS from 'yess';
+import YS from 'yesso';
 
 class ViewController extends YS.ViewController {
 
@@ -35,7 +35,7 @@ export default ViewController;
 
 ```js
 // app-delegate.js
-import YS from '../../../to5';
+import YS from 'yesso';
 import ViewController from './view-controller';
 
 class AppDelegate extends YS.AppDelegate {
