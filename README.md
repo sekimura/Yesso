@@ -14,7 +14,7 @@ $ npm install yesso
 
 ## Usage
 
-![](example/simple/ScreenShot.png)
+![](example/simple/ScreenShot.gif)
 
 
 ```js
