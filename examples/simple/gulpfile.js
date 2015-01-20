@@ -1,6 +1,5 @@
 var gulp = require('gulp');
 var to5 = require('gulp-6to5');
-var concat = require('gulp-concat');
 var browserify = require('browserify');
 var source = require('vinyl-source-stream');
 
